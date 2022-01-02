@@ -1,2 +1,5 @@
-# Income-Manager
-A platform that could help vulnerable people (e.g., individuals suffering from  mental health conditions who come from low-income families) to manage their money better  during a pandemic or global crisis.
+# Income-Manager-WebApp
+# A simple platform that could help people to manage their money/income better .
+
+# link to use it : https://surazkarn.github.io/Income-Manager-WebApp/
+                 : https://incomemanager-ssd-3.netlify.app/
